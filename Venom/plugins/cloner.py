@@ -130,5 +130,5 @@ async def start(event):
              caption=PM_START_TEXT.format(event.sender.first_name), 
              buttons=[
         [Button.url("🗣️ ꜱᴜᴘᴘᴏʀᴛ", "https://t.me/Zombie_area"), Button.url("📣 ᴜᴘᴅᴀᴛᴇꜱ", "https://t.me/network_zadkiel")],
-        [Button.url("ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ 📃", "https://graph.org/zaidUserbot-Cmds-02-04")]])
+        [Button.url("ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ 📃", "https://telegra.ph/GODUserbot-Cmds-09-25")]])
        return
