@@ -1,0 +1,6 @@
+requests
+telethon
+pyrogram
+motor
+pymongo[srv]
+nekos.py
