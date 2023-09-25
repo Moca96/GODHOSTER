@@ -1,2 +1,1 @@
-# GODHOSTER
-User bot hoster
+# Telethon-SpamBot
