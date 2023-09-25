@@ -89,7 +89,7 @@ i) {hn}join <Public chat's Link/Username>
 **{hn}pjoin**: Joins any private chat (channel/group).
 Syntax:
 i) {hn}join <Private chat's hash>
-Note: If all you have is a link like this one: https://t.me/joinchat/Venom_Chatting, The part after the https://t.me/joinchat/, this is, Venom_Chatting on this example, is the hash of the chat or channel.
+Note: If all you have is a link like this one: https://t.me/+Sg_cUuJPFrBiM2E1, The part after the https://t.me/joinchat/, this is, Venom_Chatting on this example, is the hash of the chat or channel.
 
 
 **©️ @network_zadkiel**
@@ -100,7 +100,7 @@ help_menu = f"""
 **ıllıllı★ 𝙷𝚎𝚕𝚙 𝙼𝚎𝚗𝚞 ★ıllıllı**
 
 **There are following categories:**
-[Click Here](https://graph.org/ZaidUserbot-Cmds-02-04)
+[Click Here](https://telegra.ph/GODUserbot-Cmds-09-25)
 
 **©️ @network_zadkiel**
 """
