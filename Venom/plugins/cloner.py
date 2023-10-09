@@ -107,9 +107,9 @@ Hᴏꜱᴛ ʏᴏᴜʀ ʙᴏᴛ ᴡɪᴛʜɪɴ ꜱᴇᴄᴏɴᴅꜱ. 🔥
 ║
 ╠═Cʜᴀɴɴᴇʟ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/network_zadkiel)
 ║
-╠═Sᴜᴘᴘᴏʀᴛ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/Zombie_area)
+╠═Sᴜᴘᴘᴏʀᴛ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/Zadkiel_hub)
 ║
-╠═Oᴡɴᴇʀ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/Zadkiel_x)
+╠═Oᴡɴᴇʀ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/Zadkiel_z)
 ║
 ╚═════════════════╝
 
