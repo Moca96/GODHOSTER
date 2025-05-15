@@ -58,7 +58,7 @@
 - `sudo apt install python3-pip`
 
 - ᴄʟᴏɴᴇ ᴛʜᴇ ʀᴇᴘᴏsɪᴛᴏʀʏ ʙʏ :
-- `git clone https://github.com/Moca96/DrimiRobot`
+- `git clone https://github.com/Moca96/GODHOSTER`
 
 - ᴇɴᴛᴇʀ ɪɴ ʀᴇᴘᴏ
 - `cd DrimiRobot`
@@ -122,7 +122,7 @@ OWNER_ID =  sᴛᴀʀᴛ @Exon_Robot & ᴛʏᴘᴇ /id
 </h3>
  : ➻
 
-➥ [Zadkiel] × <a href="https://github.com/Abishnoi69" alt="zadkiel_z"> <img src="https://img.shields.io/badge/ZADKIEL-90302f?logo=github" /></a>  
+➥ [Zadkiel] × <a href="https://github.com/Moca96" alt="zadkiel_z"> <img src="https://img.shields.io/badge/ZADKIEL-90302f?logo=github" /></a>  
 
 ━━━━━━━━━━━━━━━━━━━━
 
